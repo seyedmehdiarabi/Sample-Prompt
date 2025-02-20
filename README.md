@@ -1,1 +1,1 @@
-# Prompt-Samples-
+# Sample Prompt
